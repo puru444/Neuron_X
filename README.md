@@ -9,6 +9,7 @@
 [Team](#Team)<br>
 [License](#License)<br>
 [Bottom of Page](#Bottom-of-Page)<br>
+<a id="Top-of-Page"></a>
 
 ***
 ## <a id="Business-Summary">Business Summary</a>
@@ -34,18 +35,18 @@ We have created the first B2B subscription based Machine Learning business for i
 <br></br>
     
 * Beta
-    - Cryto Curency Selector
+    - Cryto Currency Selector
     - Multi-Class Classifier for Crypto Currencies
 <br></br>
 
 * Gamma
-    - Content Selctions
-    - Binary Classifaction Model for Streaming industry 
+    - Content Selections
+    - Binary Classifaction Model for Streaming Industry 
 <br></br>
 
 * Delta
     - Categorical Suggestions
-    - Multi-Class Classifier for Streaming industry 
+    - Multi-Class Classifier for Streaming Industry 
 <br></br>
 
 ## <a id="Team">Team</a>
