@@ -1,6 +1,6 @@
 # Neuron_X
 
-## Contents
+
 ***
 ## <a id="Contents">Contents</a>
 [Business Summary](#Business-Summary)<br>
