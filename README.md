@@ -13,7 +13,7 @@
 
 ***
 ## <a id="Business-Summary">Business Summary</a>
-We have created the first B2B subscription based Machine Learning business for industry specific solutions. Our services will provide a specialized predictive model for any organiztion to utulize dataset collections in order to predict trends, forecast market outcomes and understand consumer behavior and preferences. <br>
+We have created the first B2B subscription based Machine Learning Models for industry specific solutions. Our services will provide a specialized predictive model for any organization to utilize the dataset collections in order to predict trends, forecast market outcomes and understand consumer behavior & their preferences. <br>
 
 ***
 ## <a id="Technologies">Technologies</a>
