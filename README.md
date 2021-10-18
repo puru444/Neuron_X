@@ -14,13 +14,13 @@
 <a id="Top-of-Page"></a>
 
 ***
-## <a id="Business-Summary">Business Summary</a>
-We have created the first B2B subscription based Machine Learning Models for industry specific solutions. Our services will provide a specialized predictive model for any organization to utilize the dataset collections in order to predict trends, forecast market outcomes and understand consumer behavior & their preferences. <br>
+## <a id="Business-Summary">Project Summary</a>
+We have created a startup concept Neuron-X using various ANN (Artificial Neural Network) Deep Learning ML Models to predict Buy-Sell Stock Indicators, Crypto Choices: Coins, NFTs, Digital Assets, Consumer Behavior, Market Analysis, Competitive Analytics etc.  <br>
 
 ***
 ## <a id="Technologies">Technologies</a>
 #### Technologies:
-* Python
+* Python ![python logo](https://user-images.githubusercontent.com/86034323/137822094-0227461f-8bac-43b0-9bb3-6feb614b4305.png)
 * Pandas
 * Numpy
 * Scikit-Learn
