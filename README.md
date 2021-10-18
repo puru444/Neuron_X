@@ -1,5 +1,6 @@
 # PROJECT: NEURON-X
-![Logo](https://user-images.githubusercontent.com/86034323/137695336-abad79b4-3088-46db-bd21-b1c1a0f30d2b.jpg)
+![Neuron-X Logo1](https://user-images.githubusercontent.com/86034323/137821738-d2f2a2d2-676d-4f13-84a8-c1cdbe11aa77.jpg)
+
 
 
 ***
