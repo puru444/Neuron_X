@@ -1,4 +1,5 @@
 # PROJECT: NEURON-X
+![Logo](https://user-images.githubusercontent.com/86034323/137695336-abad79b4-3088-46db-bd21-b1c1a0f30d2b.jpg)
 
 ## Contents
 ***
