@@ -34,21 +34,38 @@ We have created the first B2B subscription based Machine Learning Models for ind
     - Buy/Sell Indicator Predictor
     - Binary Classification Deep Learning Model for Fintech Industry
 <br></br>
-    
+![Neuron-Alfa](https://user-images.githubusercontent.com/86034323/137696519-45f2f285-2533-40ad-a3df-d95edea0b078.jpg)
+
+
+
+
 * Beta
     - Cryto Currency Selector
     - Multi-Class Classification Deep Learning Model for Crypto Currencies
 <br></br>
+![Neuron-Beta](https://user-images.githubusercontent.com/86034323/137696583-88b48ee5-988f-4012-afe5-e99331dc2b5c.jpg)
+
+
+
 
 * Gamma
     - Content Selections
     - Binary Classification Deep Learning Model for Streaming App Industry 
 <br></br>
+![Neuron-Gamma](https://user-images.githubusercontent.com/86034323/137696616-c669a1d1-1987-4997-a1ba-37621bb6619b.jpg)
+
+
+
 
 * Delta
     - Categorical Suggestions
     - Multi-Class Classification Deep Learning Model for Streaming App Industry 
 <br></br>
+![Neuron-Delta](https://user-images.githubusercontent.com/86034323/137696656-e09d0912-0fb1-4891-bad6-101858cdc853.jpg)
+
+
+
+
 
 ## <a id="Team">Team</a>
  - <a>Prateek Sharma</a>
