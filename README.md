@@ -31,22 +31,22 @@ We have created the first B2B subscription based Machine Learning Models for ind
 ## <a id="Products">Products</a>
 * Alfa 
     - Buy/Sell Indicator Predictor
-    - Binary Classification Model for Fintech Industry
+    - Binary Classification Deep Learning Model for Fintech Industry
 <br></br>
     
 * Beta
     - Cryto Currency Selector
-    - Multi-Class Classification for Crypto Currencies
+    - Multi-Class Classification Deep Learning Model for Crypto Currencies
 <br></br>
 
 * Gamma
     - Content Selections
-    - Binary Classification Model for Streaming App Industry 
+    - Binary Classification Deep Learning Model for Streaming App Industry 
 <br></br>
 
 * Delta
     - Categorical Suggestions
-    - Multi-Class Classification for Streaming App Industry 
+    - Multi-Class Classification Deep Learning Model for Streaming App Industry 
 <br></br>
 
 ## <a id="Team">Team</a>
