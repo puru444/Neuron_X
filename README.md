@@ -1,4 +1,4 @@
-# Neuron_X
+# PROJECT: NEURON-X
 
 ## Contents
 ***
