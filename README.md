@@ -2,7 +2,7 @@
 
 ## Contents
 ***
-## <a id="Contents">Cotents</a>
+## <a id="Contents">Contents</a>
 [Business Summary](#Business-Summary)<br>
 [Technologies](#Technologies)<br>
 [Products](#Products)<br>
@@ -28,25 +28,25 @@ We have created the first B2B subscription based Machine Learning business for i
 ***
 
 
-## <a id="Prodcuts">Products</a>
+## <a id="Products">Products</a>
 * Alfa 
-    - Buy/Sell Market Predictor
-    - Binary Classifaction Model for Fintech Industry
+    - Buy/Sell Indicator Predictor
+    - Binary Classification Model for Fintech Industry
 <br></br>
     
 * Beta
     - Cryto Currency Selector
-    - Multi-Class Classifier for Crypto Currencies
+    - Multi-Class Classification for Crypto Currencies
 <br></br>
 
 * Gamma
     - Content Selections
-    - Binary Classifaction Model for Streaming Industry 
+    - Binary Classification Model for Streaming App Industry 
 <br></br>
 
 * Delta
     - Categorical Suggestions
-    - Multi-Class Classifier for Streaming Industry 
+    - Multi-Class Classification for Streaming App Industry 
 <br></br>
 
 ## <a id="Team">Team</a>
