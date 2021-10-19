@@ -19,7 +19,7 @@ We have created a startup concept Neuron-X using various ANN (Artificial Neural 
 
 ***
 ## <a id="Technologies">Technologies</a>
-#### Technologies:
+
 ![python logo](https://user-images.githubusercontent.com/86034323/137822094-0227461f-8bac-43b0-9bb3-6feb614b4305.png)
 ![pandas](https://user-images.githubusercontent.com/86034323/137822229-8bca9cd6-55b2-4123-a3bc-d3ab4e0a1e32.png)
 ![numpy](https://user-images.githubusercontent.com/86034323/137822298-27cc274d-0f77-4db6-be89-9751f350843d.png)
