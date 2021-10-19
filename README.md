@@ -20,13 +20,12 @@ We have created a startup concept Neuron-X using various ANN (Artificial Neural 
 ***
 ## <a id="Technologies">Technologies</a>
 #### Technologies:
-* Python ![python logo](https://user-images.githubusercontent.com/86034323/137822094-0227461f-8bac-43b0-9bb3-6feb614b4305.png)
-* Pandas
-* Numpy
-* Scikit-Learn
-* Tensorflow
-* Keras
-
+![python logo](https://user-images.githubusercontent.com/86034323/137822094-0227461f-8bac-43b0-9bb3-6feb614b4305.png)
+![pandas](https://user-images.githubusercontent.com/86034323/137822229-8bca9cd6-55b2-4123-a3bc-d3ab4e0a1e32.png)
+![numpy](https://user-images.githubusercontent.com/86034323/137822298-27cc274d-0f77-4db6-be89-9751f350843d.png)
+![scikit](https://user-images.githubusercontent.com/86034323/137822347-aaf6d05b-f177-45d7-b090-aa37f843de5b.png)
+![Tensorflow](https://user-images.githubusercontent.com/86034323/137822366-143c3d12-bb3e-4a52-bb64-8747a25cb09e.png)
+![logo-k-keras-wb](https://user-images.githubusercontent.com/86034323/137822392-c2dbc190-7778-4243-8bd9-62f6632a1d5a.png)
 ***
 
 
