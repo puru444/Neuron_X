@@ -5,7 +5,7 @@
 
 ***
 ## <a id="Contents">Contents</a>
-[Business Summary](#Business-Summary)<br>
+[Project Summary](#Project-Summary)<br>
 [Technologies](#Technologies)<br>
 [Products](#Products)<br>
 [Team](#Team)<br>
