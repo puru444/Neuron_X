@@ -1,5 +1,5 @@
 # UC BERKELEY FINTECH PROJECT 
-# NEURON-X
+# PROJECT NAME: NEURON-X
 ![Neuron-X Logo1](https://user-images.githubusercontent.com/86034323/137821738-d2f2a2d2-676d-4f13-84a8-c1cdbe11aa77.jpg)
 
 
