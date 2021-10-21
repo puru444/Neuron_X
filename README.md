@@ -42,7 +42,7 @@ We have created a startup concept Neuron-X using various ANN (Artificial Neural 
 
 * Beta
     - Cryto Currency Selector
-    - Multi-Class Classification Deep Learning Model for Crypto Currencies
+    - Multi-Class Classification Deep Learning Model for Crypto Exchanges
 <br></br>
 ![Neuron-Beta](https://user-images.githubusercontent.com/86034323/137696583-88b48ee5-988f-4012-afe5-e99331dc2b5c.jpg)
 
